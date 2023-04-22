@@ -30,7 +30,7 @@ Created a dashboard in Microsoft Excel for management and analysis of financial 
 <li>🔶Analyzing for two types of Marketing strategies. 
 <li>🔶All these values are controlled and changed based on the year selection of the slicer.
 
-<i><h3 align="center">Second dashboard is for sale process status</h3></i>
+<i><h3 align="center">Second dashboard is for sale process status | <a href="https://github.com/Jass-TheAnalyst/MicrosoftExcel-Project/blob/main/Sales%20process.jpg">View Dashbaord Image</a></h3></i>
 
 <li>🔷Diagram that explains the stages that all sales processes go through, so you can see how many customers go through each stage, and highlights the most frequently used stages.
 <li>🔷Doughnut chart showing total sales, the percentage of sales achieved from the target.
