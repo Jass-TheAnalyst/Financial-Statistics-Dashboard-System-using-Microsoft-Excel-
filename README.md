@@ -16,8 +16,8 @@ Created a dashboard in Microsoft Excel for management and analysis of financial 
 
 <h2>Dashboard Contents & Analysis</h2>
 
-<i><h3 align="center">First Dashboard Analysis for income sources</h3></i>
-<a href="https://github.com/Jass-TheAnalyst/MicrosoftExcel-Project/blob/main/income%20sources.jpg">Link</a>
+<i><h3 align="center">First Dashboard Analysis for income sources | <a href="https://github.com/Jass-TheAnalyst/MicrosoftExcel-Project/blob/main/income%20sources.jpg">View Dashbaord Image</a></h3></i>
+
 
 <li>🔶Dynamic web chart analyzes in detail all sources of income and the percentage of each source.
 <li>🔶A Creative Doughnut chart showing the achieved percentage from the target.
