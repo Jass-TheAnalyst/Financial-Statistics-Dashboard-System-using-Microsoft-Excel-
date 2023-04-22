@@ -38,7 +38,7 @@ Created a dashboard in Microsoft Excel for management and analysis of financial 
 <li>🔷Chart for the total refunded orders percentage.
 <li>🔷Bar chart for orders by points of sales.
 
-<i><h3 align="center">Third dashboard analyzes the total profits by countries</h3></i>
+<i><h3 align="center">Third dashboard analyzes the total profits by countries  | <a href="https://github.com/Jass-TheAnalyst/MicrosoftExcel-Project/blob/main/geographically.jpg">View Dashbaord Image</a></h3></i>
 
 <li>🔺Creative design for a dynamic map chart.
 <li>🔺Analyze the profit value from each country.
